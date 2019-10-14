@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fclassroom</groupId>
-    <artifactId>spring-security-oauth2-demo</artifactId>
+    <artifactId>spring-security-oauth2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-security-oauth2</name>
     <description>Demo project for Spring Boot</description>
